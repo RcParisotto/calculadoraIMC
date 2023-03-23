@@ -1,4 +1,4 @@
-# calculadoraIMC
+# CalculadoraIMC
 ## Parte Descktop
 
 1) Criar um novo aplicativo de console para realizar testes de IMC (Vale presença para semana 4 EAD).
