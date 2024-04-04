@@ -1,10 +1,10 @@
 # CalculadoraIMC
 ## Parte Descktop
 
-1) Criar um novo aplicativo de console para realizar testes de IMC (Vale presença para semana 4 EAD).
+1) Criar um novo aplicativo de console para realizar testes de IMC.
 
-2) Criar um novo aplicativo desktop para realizar testes de IMC (Vale presença para semana 5 EAD).
-
+2) Criar um novo aplicativo desktop para realizar testes de IMC.
+3) 
 Para ambos, fazer a abstração baseando-se nas informações do aplicativo web disponível em https://www.programasaudefacil.com.br/calculadora-de-imc.
 
 Deve atender também aos seguintes requisitos:
